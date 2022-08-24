@@ -1,0 +1,42 @@
+.box{
+    background-color: rgb(163, 175, 175);
+    width: 50%;
+    height: 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top: -5%;
+}
+#message{
+    display: flex;
+    justify-content: center;
+}
+#timer{
+    width: 20%;
+}
+.text{
+    font-size: 5rem;
+}
+
+input{
+    width: 35%;
+    margin-left: 50%;
+    transform: translate(-50%);
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+#t{
+    font-size: 3rem;
+    width: 20%;
+}
+button{
+    margin-top: 3%;
+    margin-left: 50%;
+    transform: translate(-50%);
+    width: 35%;
+    height: 5rem;
+}
