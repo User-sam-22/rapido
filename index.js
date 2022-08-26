@@ -27,7 +27,7 @@ let mots = [
   "CALMOS"
 ];
 
-let t = true;
+
 
 // const btn =  document.getElementById("btn")
 // btn.addEventListener("click", jeu)
